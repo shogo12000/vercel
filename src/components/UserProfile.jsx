@@ -8,7 +8,7 @@ function UserProfile(){
             <p>Username: <UserUsername name="shogoteste"/></p>
             <div>
                 <span>Email: </span>
-                <span>shogo@hotmail.com</span>
+                <span>langara@langara.ca</span>
             </div>
             <UserFavoriteFood working={true} foods={['italian','mexican','japanese']}/>
         </div>
